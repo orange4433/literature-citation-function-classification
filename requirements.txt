@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn==1.7.0
+matplotlib
+seaborn
+joblib
+xgboost
+lightgbm
+jupyter

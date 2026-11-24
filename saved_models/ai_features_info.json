@@ -1,0 +1,30 @@
+{
+  "ai_labels": [
+    "Citation_Type_GPT",
+    "Citation_Type_Gemini",
+    "Citation_Type_Claude",
+    "Citation_Type_DeepSeek"
+  ],
+  "ai_features_columns": [
+    "Citation_Type_GPT_Background",
+    "Citation_Type_GPT_Comparison",
+    "Citation_Type_GPT_Fundamental idea",
+    "Citation_Type_GPT_Technical basis",
+    "Citation_Type_Gemini_Background",
+    "Citation_Type_Gemini_Comparison",
+    "Citation_Type_Gemini_Fundamental idea",
+    "Citation_Type_Gemini_Technical basis",
+    "Citation_Type_Claude_Background",
+    "Citation_Type_Claude_Comparison",
+    "Citation_Type_Claude_Fundamental idea",
+    "Citation_Type_Claude_Technical basis",
+    "Citation_Type_DeepSeek_Background",
+    "Citation_Type_DeepSeek_Comparison",
+    "Citation_Type_DeepSeek_Fundamental idea",
+    "Citation_Type_DeepSeek_Technical basis"
+  ],
+  "ai_features_shape": [
+    8667,
+    16
+  ]
+}
